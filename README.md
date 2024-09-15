@@ -1,6 +1,6 @@
 # what is grind ?
 - Collection of notes on 150 leetcode problems solutions that i will solve.
-- This is also inspired by [bertos](https://github.com/Graffioh/bertos-inferno)repo
+- This is also inspired by [bertos](https://github.com/Graffioh/bertos-inferno) repo
 
 # what process i am following ?
  
