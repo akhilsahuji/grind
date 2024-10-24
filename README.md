@@ -16,8 +16,11 @@
 
 
 # Problems index
-- 
+-  [48. Rotate Image](#48-rotate-image)
 
 ---
 
-##
+## [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)
+
+### key ideas
+
