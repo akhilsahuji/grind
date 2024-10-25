@@ -17,10 +17,15 @@
 - [neetcode](https://www.youtube.com/c/neetcode)
 
 # Problems index
-
+- [How to calculate complexity?](#notes-on-complexity)
 - [48. Rotate Image](#48-rotate-image)
-
 ---
+## Notes on complexity
+To calculate the complexity yourself, you can follow these steps:
+- Identify the time-consuming operations in the code, such as loops, recursive calls, or any other operations that scale with the input size.
+- Determine the time complexity of each of these operations based on the number of iterations or the size of the input.
+- Combine the time complexities of the individual operations to get the overall time complexity of the function.
+- Analyze the space usage of the function to determine the space complexity.
 
 ## [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 
