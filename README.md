@@ -25,3 +25,12 @@
 ## [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)
 
 ### key ideas
+![alt text](image.png)
+- Transpose the matrix by swapping the elements across the main diagonal.
+- Reverse each row by swapping the elements from the start and end of the row.
+- The time complexity of both solutions is O(n^2), where n is the size of the matrix, as we need to perform the transpose and row reversal operations on the entire matrix. The space complexity is O(1), as we are performing the operations in-place without using any additional memory.
+
+
+
+
+
